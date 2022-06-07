@@ -1,0 +1,6 @@
+# Visual Studio cache
+.vs/
+
+# Auto generated files
+JMXVDDJConverter/bin/*
+JMXVDDJConverter/obj/*
